@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment1_Week37_TDD.iml" filepath="$PROJECT_DIR$/.idea/Assignment1_Week37_TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CelsiusFahrenheit/CelsiusFahrenheit.iml" filepath="$PROJECT_DIR$/CelsiusFahrenheit/CelsiusFahrenheit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RomanNumeral/RomanNumeral.iml" filepath="$PROJECT_DIR$/RomanNumeral/RomanNumeral.iml" />
+    </modules>
+  </component>
+</project>
